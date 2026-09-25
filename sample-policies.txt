@@ -1,0 +1,7 @@
+TRAIT Demo Store Policies
+
+Returns are accepted within 30 days of delivery.
+Refunds are issued within 5 business days after the returned item is inspected.
+Support hours are Monday to Friday, 9 AM to 6 PM.
+Delivery normally takes 3 to 5 business days after order processing.
+Customers can reset their password by using the Forgot Password link on the sign-in page.

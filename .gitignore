@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Data (runtime state, not source)
+data/
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
