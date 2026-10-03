@@ -3,6 +3,9 @@ name = "trait-support-agent"
 version = "0.1.0"
 description = "TRAIT AI Customer Support Agent"
 requires-python = ">=3.11,<3.15"
+dependencies = [
+    "fastapi[standard]>=0.139.2",
+]
 
 [tool.vercel]
 entrypoint = "backend.main:app"
